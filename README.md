@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+
 <HTML>
    <HEAD>
       <TITLE>
-         A Small Hello 
+         Hellow World 
       </TITLE>
    </HEAD>
 <BODY>
